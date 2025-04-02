@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <base target="_top">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather">
+    <style>
+.cb {display: flex; justify-content: center; align-items: center; height: auto; width: 400px; border: 3px solid #ccc; padding: 20px; text-align: center; margin: 0 auto; box-shadow: 8px 8px 10px black;}
+body { display: flex; justify-content: center; align-items: center; height: 100vh;}
+.bdy {background-color: #e8f4f8;}
+/*h1 {text-align: center;color: blue;text-decoration: underline;font-size: 36px;font-family: Merriweather;box-shadow: 8px 8px 10px black;}*/
+/*h3 {font-family: Merriweather;font-size: 24px;text-align: center;}*/
+p {font-family: Merriweather; font-size: 18px; text-align: left;}
+    </style>
+</head>
+<body class="bdy">
+    <h1 style="text-align: center;color: blue;text-decoration: underline;font-size: 36px;font-family: Merriweather;box-shadow: 8px 8px 10px black;">Squire Shout-Out</h1>
+    <h3 style="font-family: Merriweather;font-size: 24px;text-align: center;">Good news, <?= recipient ?>! Someone at Castle North appreciates you! You can read your Squire Shout-Out below!</h3>
+    <div class="cb">
+        <p><?= message ?></p>
+        
+    </div>
+    <p>Sincerely,</p>
+    <p><?= senderName ?></p>
+</body>
+</html>
