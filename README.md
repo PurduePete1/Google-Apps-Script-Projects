@@ -1,5 +1,9 @@
 # Google Apps Script Projects
 
+![Built with Google Apps Script](https://img.shields.io/badge/Built%20with-Google%20Apps%20Script-blue?logo=google)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Education Automation](https://img.shields.io/badge/Focus-Education%20Automation-yellow)
+
 This repository contains a collection of Google Apps Script projects I've developed as part of my professional work as an educator and administrator-in-training.
 
 Each project is designed to streamline school operations, improve staff engagement, and support equitable student services through automation and efficiency.
