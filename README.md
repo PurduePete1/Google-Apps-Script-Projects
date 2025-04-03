@@ -19,38 +19,43 @@ Pretty self-explanatory—fill in the information on a Google Sheet (the URL to 
 
 ---
 
-### 2. [Chromebook Collection](./Chromebook%20Collection)
+### 2. 🗳️ [Candidate Scoring Tool](./CandidateScoring)
+Scores and ranks speaker or award candidates based on ranked-choice form submissions. Ideal for committees, guest speaker selection, and more.
+
+---
+
+### 3. [Chromebook Collection](./Chromebook%20Collection)
 
 This Apps Script helps with the mass collection of student Chromebooks at the end of the school year. The associated Google Sheet template URL can be found in the `Code.js` file.
 
 ---
 
-### 3. [Increase/Decrease Font Size](./Increase-Decrease%20Font%20Size)
+### 4. [Increase/Decrease Font Size](./Increase-Decrease%20Font%20Size)
 
 Ever wanted to adjust the font size of *an entire Google Doc* without tediously highlighting each section? Add this script to your Google Doc, authorize it, then highlight any section and use the custom UI to adjust the size. It’s that simple.
 
 ---
 
-### 4. [Scholastic Squire Docs Creator](./Scholastic%20Squire%20Docs%20Creator)
+### 5. [Scholastic Squire Docs Creator](./Scholastic%20Squire%20Docs%20Creator)
 
 A specialized version of the AutoFill project tailored to our school’s needs—great for generating student awards or other templated documents in bulk.
 
 ---
 
-### 5. [Squire Shout Out](./Squire%20Shout%20Out)
+### 6. [Squire Shout Out](./Squire%20Shout%20Out)
 
 This script allows a user to fill out a Google Form, and when the response lands in a Sheet, it automatically sends an email to the recipient.  
 > 📧 Heads up: This must be set up and run from a single Google account (due to authorization limitations). Someone smarter than me (read: future me) might figure out how to make it multi-account friendly.
 
 ---
 
-### 6. [Team Schedule](./Team%20Schedule)
+### 7. [Team Schedule](./Team%20Schedule)
 
 Automatically sorts team data into individualized schedules. Originally built to manage practice schedules for all basketball teams—made my life as an athletic director a whole lot easier.
 
 ---
 
-### 7. [Timed Google Form (Incomplete)](./Timed%20Google%20Form)
+### 8. [Timed Google Form (Incomplete)](./Timed%20Google%20Form)
 
 A partially completed idea for creating timed Google Forms. I later transitioned this to a self-hosted project, but the foundational logic is here for any teacher wanting to experiment with timed assessments.
 
